@@ -22,4 +22,5 @@ To install without Git:
 
 
 YoruFukurou workflow is an unofficial Applescript for using YoruFukurou more productively and easier
+
 YoruFukurou (NightOwl) is a native Twitter client for Mac OS X written by @aki_null 
