@@ -17,7 +17,8 @@ To install without Git:
     1. Click the 'Downloads' button at the top right of this page
     2. In the pop-up window, choose 'Download .tar.gz' or 'Download .zip', click
     3. Go to 'Downloads' stack and double click the package which you just download to extract it
-    4. Go to the new folder, move the file 'YoruFukurou.workflow' to  ~/Library/Services/ (You may need to use 'Go the Folder...' )
+    4. Go to the new folder, move the file 'YoruFukurou.workflow' to  ~/Library/Services/ 
+       (You may need to use 'Go the Folder...' )
 
 
 YoruFukurou workflow is an unofficial Applescript for using YoruFukurou more productively and easier
